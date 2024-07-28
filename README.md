@@ -1,5 +1,5 @@
 # ESP32-OLED
-This is an exapmle of walking man on OLED display to show how to use the attached libraries and 
+This is an example of walking man on OLED display to show how to use the attached libraries and 
 how to display different pixel images upto(128*64) which is converted to .bmp C array.
 
 
